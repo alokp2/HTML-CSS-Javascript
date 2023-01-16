@@ -1,0 +1,11 @@
+Define the terms: Website, Webpage, Web browser, Web server, HTML,
+CSS
+
+Website is a collections of many webpages and webpages are digital files that are 
+created using html. Web browser is an application to access websites.A web server 
+is software that understand the URls and stores the website files HTml,css,and javascript.
+HTML is a markup language to create the structure of a web page. 
+
+In how many ways can a CSS be integrated as a webpage?
+There are three ways: inline, internal, and external css.
+
